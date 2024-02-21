@@ -454,7 +454,7 @@ header::before {
 }
 
 .bar .progress-line.mysql span {
-    width: 50%;
+    width: 70%;
 }
 .bar .progress-line.java span {
     width: 35%;
@@ -513,7 +513,7 @@ header::before {
 }
 
 .progress-line.mysql span::after {
-    content: "50%";
+    content: "70%";
 }
 .progress-line.java span::after {
     content: "35%";
